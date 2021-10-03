@@ -1,0 +1,4 @@
+Lesson 1.
+1) Your code compiles faster in Kotlin.
+2) Create a Kotlin project in IntelliJ IDEA, than select Tools->Kotlin->Kotlin REPL.
+3) Kotlin code will run faster than Java code.
